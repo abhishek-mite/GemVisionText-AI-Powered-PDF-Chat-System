@@ -1,0 +1,17 @@
+gemvision3345
+
+
+gemvision-trail-proj
+
+gemvision-trail-proj@gemvision3345.iam.gserviceaccount.com
+
+
+
+
+C:\Users\ABHISHEK>cd C:\Users\ABHISHEK\Downloads\GemVison
+
+C:\Users\ABHISHEK\Downloads\GemVison>set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\ABHISHEK\Downloads\gemvision-key.json
+
+C:\Users\ABHISHEK\Downloads\GemVison>venv\Scripts\activate
+
+(venv) C:\Users\ABHISHEK\Downloads\GemVison>streamlit run trial.py
